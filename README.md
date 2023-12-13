@@ -1,3 +1,6 @@
+# Deprecated
+See https://github.com/vinhjaxt/fake-dns
+
 # Build
 `go build -o proxy`
 
